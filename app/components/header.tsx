@@ -18,7 +18,7 @@ export default function Header() {
             className="h-18 w-auto object-contain  opacity-80"
           />
           <div className="flex gap-6 items-center justify-evenly">
-          <span className="text-lg md:text-2xl uppercase text-center">
+          <span className="text-lg md:text-2xl uppercase text-center text-black">
             Great Genius Photo & Cinema
           </span>
         

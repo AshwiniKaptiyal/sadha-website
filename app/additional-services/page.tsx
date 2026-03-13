@@ -9,13 +9,13 @@ export default function FurtherServicesSection({
     <section
       
       className="w-full"
-      aria-labelledby="further-services-heading"
+      aria-labelledby="further-services-heading "
     >
       {/* Heading */}
       <div className="w-full bg-gray-100 p-8">
         <h2
           id="further-services-heading"
-          className="text-center text-4xl md:text-6xl tracking-widest uppercase p-8 font-[system-ui]"
+          className="text-center text-4xl md:text-6xl tracking-widest uppercase p-8 font-[system-ui] text-black"
         >
           {title}
         </h2>
@@ -34,7 +34,7 @@ export default function FurtherServicesSection({
 
         {/* Text + Button */}
         <div className="sm:w-1/2 w-full flex flex-col items-center justify-center text-center p-6 gap-4">
-          <h1 className="text-3xl sm:text-5xl uppercase">
+          <h1 className="text-3xl sm:text-5xl uppercase text-black">
             Rolls Royce Car Hire
           </h1>
 
