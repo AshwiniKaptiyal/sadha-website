@@ -38,7 +38,7 @@ export default function FurtherServicesSection({
             Rolls Royce Car Hire
           </h1>
 
-          <button className="px-6 py-2 border-2 border-black text-black text-lg font-extralight rounded-md hover:bg-black hover:text-white transition">
+          <button className="px-6 py-2 border-2 border-black text-black text-lg font-extralight rounded-md hover:bg-black md:hover:text-white transition">
             Website
           </button>
         </div>

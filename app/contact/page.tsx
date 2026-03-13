@@ -101,7 +101,7 @@ const ContactUs = () => {
           <div className="md:col-span-2 text-center">
             <button
               type="submit"
-              className="mt-6 px-10 py-3 border border-white tracking-widest hover:bg-white hover:text-black transition"
+              className="mt-6 px-10 py-3 border border-white tracking-widest hover:bg-white text-black md:hover:text-black transition"
             >
               SEND
             </button>
