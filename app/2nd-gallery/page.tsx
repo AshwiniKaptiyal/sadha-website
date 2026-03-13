@@ -118,7 +118,7 @@ const SecondGallery = () => {
           >
             ✕
           </button>
-
+<div className="hidden md:block">
           {/* Main Left Arrow */}
           <button
             className="absolute left-5 text-white text-5xl hover:scale-110 transition"
@@ -142,6 +142,7 @@ const SecondGallery = () => {
           >
             ❯
           </button>
+          </div>
 
           <div className="w-full flex flex-col items-center">
             {/* Video */}
@@ -150,11 +151,12 @@ const SecondGallery = () => {
               src={videos[activeIndex].src}
               controls
               autoPlay
-              className="w-full max-w-5xl rounded-lg shadow-2xl mb-6 px-16"
+              className="w-full md:max-w-5xl rounded-lg shadow-2xl mb-6 px-2 md:px-16"
             />
+            <div className="hidden md:block">
 
             {/* Thumbnail Nav Buttons */}
-            <div className="w-full flex justify-between mb-3 px-4 absolute bottom-10 z-10">
+            <div className=" w-full flex justify-between mb-3 px-4 absolute bottom-10 z-10">
               <button
                 onClick={scrollThumbnailsLeft}
                 className="text-white text-3xl hover:scale-110 transition"
@@ -193,6 +195,7 @@ const SecondGallery = () => {
                   />
                 </div>
               ))}
+            </div>
             </div>
           </div>
         </div>
