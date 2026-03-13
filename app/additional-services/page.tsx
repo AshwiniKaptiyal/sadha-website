@@ -7,7 +7,7 @@ export default function FurtherServicesSection({
 }: FurtherServicesSectionProps) {
   return (
     <section
-      tabIndex={-1}
+      
       className="w-full"
       aria-labelledby="further-services-heading"
     >

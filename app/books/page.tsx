@@ -6,10 +6,10 @@ const DesitnationWeddings = () => {
   return (
     <section className="min-h-screen bg-[#eaeaea] text-[#303131] px-6 py-4">
    
-        <div className="uppercase text-center text-6xl font-[system-ui] font-extralight">Desitnation Weddings</div>
+        <div className="uppercase text-center text-5xl md:text-6xl font-[system-ui] font-extralight">Desitnation Weddings</div>
         <div className="w-full mx-auto">
 
-        <div className="flex flex-col md:flex-row items-center p-10 gap-2">
+        <div className="flex flex-col md:flex-row items-center p-2 md:p-10 gap-2">
           
           {/* LEFT CONTENT */}
               <div className="w-full md:w-1/2 px-6 md:px-16 py-10 font-extralight text-center md:text-left">

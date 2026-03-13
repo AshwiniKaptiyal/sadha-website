@@ -9,12 +9,12 @@ const Portfolio = () => {
         <div className="uppercase text-center text-6xl font-[system-ui] font-extralight">Portfolio</div>
         <div className="w-full mx-auto">
 
-        <div className="flex flex-col md:flex-row items-center p-10 gap-2">
+        <div className="flex flex-col md:flex-row items-center    py-4 md:p-10 gap-2">
           
           {/* LEFT CONTENT */}
            <div className="w-full md:w-1/2 flex flex-col items-center">
-            <div className="relative w-full   md:aspect-281/210  overflow-hidden ">
-                <div className="z-10 absolute bottom-20 left-4  text-white text-center">
+            <div className="relative w-full  aspect-281/210    overflow-hidden ">
+                <div className="z-10 absolute bottom-4 md:bottom-20 left-4  text-white text-center">
                     <h1 className="text-3xl font-sans py-2 font-extralight">PHOTO</h1>
                     <Link  href="/1st-gallery">
                 <button className=" px-16 py-2 border border-gray-50 hover:bg-amber-100/30  transition cursor-pointer">
@@ -36,8 +36,8 @@ const Portfolio = () => {
 
           {/* RIGHT IMAGE */}
           <div className="w-full md:w-1/2 flex flex-col items-center">
-            <div className="relative w-full   md:aspect-281/210  overflow-hidden ">
-                <div className="z-10 absolute bottom-20 left-4  text-white text-center">
+            <div className="relative w-full    aspect-281/210  overflow-hidden ">
+                <div className="z-10 absolute bottom-4 md:bottom-20 left-4  text-white text-center">
                     <h1 className="text-3xl font-sans py-2 font-extralight">FILM</h1>
                     <Link  href="/2nd-gallery">
                 <button className=" px-16 py-2 border border-gray-50 hover:bg-amber-100/30  transition cursor-pointer">

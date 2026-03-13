@@ -57,7 +57,7 @@ export default function Header() {
 
       {/* LEFT Slide Menu */}
       <nav
-        className={`fixed top-0 left-0 h-full w-72 bg-[#f0f3f6] shadow-lg transform transition-transform duration-300
+        className={`fixed top-0 z-50 left-0 h-full w-72 bg-[#f0f3f6] shadow-lg transform transition-transform duration-300
         ${open ? "translate-x-0" : "-translate-x-full"}`}
       >
         <button
