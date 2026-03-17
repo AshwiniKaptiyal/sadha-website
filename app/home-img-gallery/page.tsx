@@ -16,10 +16,11 @@ const images = [
   // { src: "/img/home/13.jpg", alt: "13", type: "rect" },
   // { src: "/img/home/14.jpg", alt: "14", type: "tall" }
 
-   { src: "/img/home/CAM12408.jpg", alt: "1", type: "tall" },
+ 
   { src: "/img/home/964A0541.jpg", alt: "2", type: "rect" },
   { src: "/img/home/JSK_7658.jpg", alt: "3" , type: "smallTall"},
   { src: "/img/home/ZR5_3955.jpg", alt: "4", type: "smallTall" },
+    { src: "/img/home/CAM12408.jpg", alt: "1", type: "tall" },
    { src: "/img/home/CAM34622.jpg", alt: "14", type: "tall" },
   { src: "/img/home/JSK_1767.jpg", alt: "5",  type:"tall"  },
   { src: "/img/home/1b.jpg", alt: "6", type: "rect" },

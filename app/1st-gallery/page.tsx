@@ -12,7 +12,7 @@ export default function FirstGallery() {
     
     "/img/gallery1/JSK_8634.jpg",
     "/img/gallery1/MND_0777.jpg",
-    "/img/gallery1/MND_0805.jpg",
+    "/img/gallery1/MND_08055.jpg",
     "/img/gallery1/ZM3_0545.jpg",
     "/img/gallery1/ZR5_3955.jpg",
       "/img/gallery1/CAM34622.jpg",
