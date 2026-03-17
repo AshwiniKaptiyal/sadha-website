@@ -3,20 +3,30 @@ import { useState, useRef } from "react";
 
 export default function FirstGallery() {
   const images = [
-    "/img/gallery1/1.jpeg",
-    "/img/gallery1/2.jpeg",
-    "/img/gallery1/3.jpg",
-    "/img/gallery1/4.jpeg",
-    "/img/gallery1/5.jpg",
-    "/img/gallery1/6.jpg",
-    "/img/gallery1/7.jpeg",
-    "/img/gallery1/8.jpg",
-    "/img/gallery1/9.jpeg",
-    "/img/gallery1/10.jpg",
-    "/img/gallery1/11.jpg",
-    "/img/gallery1/12.jpg",
-    "/img/gallery1/13.jpg",
-    "/img/gallery1/14.jpg",
+    "/img/gallery1/964A0541.jpg",
+    "/img/gallery1/CAM12408.jpg",
+    "/img/gallery1/964A5169.jpg",
+    
+    "/img/gallery1/JSK_1767.jpg",
+    "/img/gallery1/JSK_7658.jpg",
+    
+    "/img/gallery1/JSK_8634.jpg",
+    "/img/gallery1/MND_0777.jpg",
+    "/img/gallery1/MND_0805.jpg",
+    "/img/gallery1/ZM3_0545.jpg",
+    "/img/gallery1/ZR5_3955.jpg",
+      "/img/gallery1/CAM34622.jpg",
+      "/img/gallery1/1545.jpg",
+    "/img/gallery1/1525.jpg",
+     "/img/gallery1/1656.jpg",
+    "/img/gallery1/JSK_8543.jpg",
+    "/img/gallery1/ZR5_3393.jpg",
+    "/img/gallery1/ZR5_3627.jpg",
+    "/img/gallery1/MND_0700.jpg",
+    "/img/gallery1/JSK_0245.jpg",
+  
+    
+
   ];
 
   const [selectedIndex, setSelectedIndex] = useState<number | null>(null);

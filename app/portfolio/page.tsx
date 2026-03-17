@@ -24,7 +24,7 @@ const Portfolio = () => {
             </Link>
             </div>
               <Image
-                src="/img/portfolio/2.jpeg"   // public folder me image
+                src="/img/portfolio/ZM2_5158.jpg"   // public folder me image
                 alt="Portfolio Preview"
                 fill
                 className="object-cover"
@@ -47,7 +47,7 @@ const Portfolio = () => {
 
             </div>
               <Image
-                src="/img/portfolio/12.jpg"   // public folder me image
+                src="/img/portfolio/CM7A1823.jpg"   // public folder me image
                 alt="Portfolio Preview"
                 fill
                 className="object-cover"

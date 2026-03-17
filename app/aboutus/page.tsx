@@ -15,7 +15,7 @@ const AboutUs = () => {
           <div className="w-full md:w-1/2">
             <div className="relative w-full aspect-4/3 overflow-hidden">
               <Image
-                src="/img/portfolio/2.jpeg"
+                src="/img/aboutus/MND_0225.jpg"
                 alt="Great Genius Portfolio"
                 fill
                 priority
