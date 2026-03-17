@@ -19,7 +19,7 @@ export default function Header() {
           />
           <div className="flex gap-6 items-center justify-evenly">
           <span className="text-lg md:text-2xl uppercase text-center text-black">
-            Great Genius Photo & Cinema
+            SADHA VIDEO PHOTO & CINEMA
           </span>
         
 

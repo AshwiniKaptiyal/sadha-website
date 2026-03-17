@@ -22,7 +22,7 @@ export default function Footer() {
       >
         <li>
           <a
-            href="https://www.facebook.com/ggphotocinema"
+            href="https://www.facebook.com/SadhaVideo/"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="Facebook"
@@ -41,26 +41,26 @@ export default function Footer() {
 
         <li>
           <a
-            href="https://www.twitter.com/ggphotocinema"
+            href="https://x.com/SadhaVideo"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="Twitter"
           >
-      <svg
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 24 24"
-      fill="currentColor"
-      width="24"
-      height="24"
-    >
-      <path d="M23 3a10.9 10.9 0 01-3.14.86 4.48 4.48 0 001.94-2.48 9.07 9.07 0 01-2.88 1.1A4.52 4.52 0 0016.67 2c-2.5 0-4.52 2.02-4.52 4.52 0 .35.04.69.11 1.02-3.76-.19-7.1-1.99-9.33-4.73a4.48 4.48 0 00-.61 2.27c0 1.57.8 2.96 2.02 3.77a4.51 4.51 0 01-2.05-.57v.06c0 2.18 1.55 4 3.61 4.42a4.52 4.52 0 01-2.04.08c.58 1.81 2.28 3.13 4.29 3.17A9.07 9.07 0 010 19.54 12.79 12.79 0 006.92 21c8.3 0 12.85-6.87 12.85-12.83 0-.2 0-.39-.01-.58A9.18 9.18 0 0023 3z"/>
-    </svg>
+    <svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 22 22"
+  fill="currentColor"
+  width="22"
+  height="22"
+>
+  <path d="M18.244 2H21.5l-7.5 8.57L22 22h-6.828l-5.34-6.984L3.5 22H0l8.02-9.167L0 2h6.828l4.84 6.349L18.244 2zm-2.396 18h1.885L6.22 4H4.22l11.628 16z"/>
+</svg>
           </a>
         </li>
 
         <li>
           <a
-            href="https://instagram.com/ggphotocinema"
+            href="https://www.instagram.com/sadhavideo/"
             target="_blank"
             rel="noreferrer noopener"
             aria-label="Instagram"
@@ -80,7 +80,7 @@ export default function Footer() {
 
       {/* Copyright */}
       <p style={{ fontSize: "16px", lineHeight: "1.5em" }}>
-        © 2026 by Great Genius Photo &amp; Cinema
+        © 2026 by Sadha Video Photo &amp; Cinema
       </p>
     </footer>
   );
