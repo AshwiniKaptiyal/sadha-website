@@ -15,12 +15,12 @@ export default function Header() {
           <img
             src="/logo.png"
             alt="Logo"
-            className="h-18 w-auto object-contain  opacity-80"
+            className="h-18 w-auto object-contain invert"
           />
           <div className="flex gap-6 items-center justify-evenly">
-          <span className="text-lg md:text-2xl uppercase text-center text-black">
+          {/* <span className="text-lg md:text-2xl uppercase text-center text-black">
             SADHA VIDEO PHOTO & CINEMA
-          </span>
+          </span> */}
         
 
         {/* Burger Button */}

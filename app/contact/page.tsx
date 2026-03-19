@@ -25,7 +25,7 @@ const ContactUs = () => {
             <div className="relative w-full aspect-4/3 overflow-hidden">
               <Image
                 src="/img/contact/1b.jpg"
-                alt="Great Genius Portfolio"
+                alt="Sadha Video Portfolio"
                 fill
                 priority
                 className="object-cover"
@@ -116,12 +116,12 @@ const ContactUs = () => {
 
         {/* Contact Info */}
         <div className="text-center text-sm  mt-10">
-          Tel: 07403 229076 | Email:{" "}
+          Tel: 01902 604950 | Email:{" "}
           <a
-            href="mailto:info@greatgenius.co.uk"
+            href="mailto:moreinfo@sadhavideo.com"
             className="underline hover:text-white"
           >
-            info@greatgenius.co.uk
+            moreinfo@sadhavideo.com
           </a>
         </div>
       </div>

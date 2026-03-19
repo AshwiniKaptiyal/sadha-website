@@ -16,7 +16,7 @@ const AboutUs = () => {
             <div className="relative w-full aspect-4/3 overflow-hidden">
               <Image
                 src="/img/aboutus/MND_0225.jpg"
-                alt="Great Genius Portfolio"
+                alt="Sadha Video Portfolio"
                 fill
                 priority
                 className="object-cover"
@@ -27,11 +27,11 @@ const AboutUs = () => {
           {/* RIGHT CONTENT */}
           <div className="w-full md:w-1/2 px-6 md:px-16 py-10 font-extralight text-center md:text-left">
             <h2 className="text-4xl md:text-5xl mb-6 tracking-wide">
-              GREAT GENIUS
+              Sadha Video
             </h2>
 
             <p className="mb-4 leading-relaxed text-lg">
-              Great Genius is an international creative storytelling studio with
+              Sadha Video is an international creative storytelling studio with
               over 10 years of experience. We continuously push boundaries and
               set new standards in photography and filmmaking.
             </p>
