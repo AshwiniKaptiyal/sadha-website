@@ -15,7 +15,7 @@ export default function Header() {
           <img
             src="/logo.png"
             alt="Logo"
-            className="h-18 w-auto object-contain invert"
+            className="h-18 w-auto object-contain"
           />
           <div className="flex gap-6 items-center justify-evenly">
           {/* <span className="text-lg md:text-2xl uppercase text-center text-black">
