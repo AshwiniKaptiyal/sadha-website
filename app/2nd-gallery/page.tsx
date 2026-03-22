@@ -5,14 +5,14 @@ import Image from "next/image";
 import HeroVideo from "../components/herovideo";
 
 const videos = [
-  { id: 1, title: "Jaski Preshoot", thumb: "/img/gallery2/thumb_1.png", src: "/img/gallery2/1.mp4" },
-  { id: 7, title: "Nav Meg Purposal", thumb: "/img/gallery2/thumb_7.png", src: "/img/gallery2/7.mp4" }, 
-  { id: 3, title: "Grupreet & Simran", thumb: "/img/gallery2/thumb_3.png", src: "/img/gallery2/3.mp4" },
-  { id: 4, title: "Akshay & Tasha", thumb: "/img/gallery2/thumb_4.png", src: "/img/gallery2/4.mp4" },
-  { id: 5, title: "Aman & Avinash", thumb: "/img/gallery2/thumb_5.png", src: "/img/gallery2/5.mp4" },
-  { id: 6, title: "Jaski Trailer", thumb: "/img/gallery2/thumb_6a.png", src: "/img/gallery2/6.mp4" },
+  { id: 1, title: "Jaski Preshoot", thumb: "/img/gallery2/thumb_1.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/1.mp4" },
+  { id: 7, title: "Nav Meg Purposal", thumb: "/img/gallery2/thumb_7.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/7.mp4" }, 
+  { id: 3, title: "Grupreet & Simran", thumb: "/img/gallery2/thumb_3.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/3.mp4" },
+  { id: 4, title: "Akshay & Tasha", thumb: "/img/gallery2/thumb_4.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/4.mp4" },
+  { id: 5, title: "Aman & Avinash", thumb: "/img/gallery2/thumb_5.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/5.mp4" },
+  { id: 6, title: "Jaski Trailer", thumb: "/img/gallery2/thumb_6a.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/6.mp4" },
   
-  { id: 2, title: "Rajdeep & Anita Poses", thumb: "/img/gallery2/thumb_2.png", src: "/img/gallery2/2.mp4" },
+  { id: 2, title: "Rajdeep & Anita Poses", thumb: "/img/gallery2/thumb_2.png", src: "https://d25pwqcjlc4d3o.cloudfront.net/sadha_website/gallery2/2.mp4" },
 ];
 
 const SecondGallery = () => {
