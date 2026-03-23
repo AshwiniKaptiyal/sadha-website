@@ -11,7 +11,7 @@ export default function Header() {
       <div className=" w-full mx-auto  flex items-center justify-between py-1">
 
         {/* Logo , text nav */}
-        <div className="w-full flex flex-col items-center font-[system-ui] font-extralight">
+        <div className="w-full flex  justify-around p-2 md:p-0  md:flex-col items-center font-[system-ui] font-extralight">
           <img
             src="/logo.png"
             alt="Logo"
