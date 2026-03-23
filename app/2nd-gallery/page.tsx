@@ -113,7 +113,7 @@ const SecondGallery = () => {
         <div className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-2 md:p-4">
           {/* Close */}
           <button
-            className="absolute top-6 right-8 text-white text-4xl hover:scale-110 transition"
+            className="absolute top-6 right-8 text-white text-4xl hover:scale-110 transition cursor-pointer"
             onClick={() => setActiveIndex(null)}
           >
             ✕
