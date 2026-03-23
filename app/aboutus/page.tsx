@@ -32,7 +32,7 @@ const AboutUs = () => {
 
             <p className="mb-4 leading-relaxed text-lg">
               Sadha Video is an international creative storytelling studio with
-              over 10 years of experience. We continuously push boundaries and
+              over 40 years of experience. We continuously push boundaries and
               set new standards in photography and filmmaking.
             </p>
 
